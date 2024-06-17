@@ -1,0 +1,36 @@
+
+Coding standards
+----------------
+
+1. Proper comments for each methods
+2. Remove all the unused comments and lines
+3. proper intentation (4)
+4. Declare all the variables at the starting and remove all the unused variables
+5. use proper variables naming conventions 
+    -> class names (Pascal case)
+    -> variable naming ( camal, snake )
+    -> Method (camal case)
+    -> Constants (All Caps)
+    -> Private variables (starting with underscore and follow the variable and Constants standards)
+    -> File name (snake case)
+
+
+Code commit standards
+---------------------
+1. Branching Strategy
+    -> Fetch and Pull from DEV before starting any work
+    -> Checkout new branch  from DEV for each JIRA task
+    -> Branch naming should be JIRA ticket numer
+
+2. Commit message (Use self explanatory commit message)
+    -> For new features start with "[FEATURE]" ex : [FEATURE] - login functionality (JIRA NUMBER)
+    -> For bug fix start with "[FIX]" ex : [FIX] - SSO authentication issue fix (JIRA NUMBER)
+
+3. Code review
+
+4. Merge to DEV  (Automation)
+
+5. Build and Release pipeines
+
+
+    

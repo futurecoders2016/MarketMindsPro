@@ -1,0 +1,36 @@
+
+
+
+project planning
+================
+
+1. Req gathering  -> User Stories -> Inventory, Employee 
+2. ER Diagram     
+3. Design 
+
+
+
+priority items
+==============
+
+2. product      -> Basic details
+3. ware house   -> 
+6. offer
+1. customer     -> Auth -> Basic details -> SSO Login 
+4. cart
+5. order        -> Tracking, Status
+6. payment 
+
+
+Enhancements
+============
+
+1. Admin
+2. Employee
+3. Customer Loyalty - (Reward points for customers)
+4. Employee Loyalty - (Reward points for customers)
+
+
+
+
+
