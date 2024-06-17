@@ -24,3 +24,5 @@ Step 5: Running and Testing Services
 ------------------------------------
 * Start Services: Run the main classes in your IDE or use Maven commands.
 * Testing: Utilize tools like Postman to interact with the services’ endpoints and confirm their operational status.
+
+  Reference link : https://spring.io/guides/gs/rest-service
