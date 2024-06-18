@@ -15,11 +15,11 @@ priority items
 
 2. product      -> Basic details
 3. ware house   -> 
-6. offer
+5. offer
 1. customer     -> Auth -> Basic details -> SSO Login 
 4. cart
-5. order        -> Tracking, Status
-6. payment 
+6. order        -> Tracking, Status
+7. payment 
 
 
 Enhancements
